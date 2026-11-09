@@ -33,6 +33,9 @@ https://cdn.jsdelivr.net/gh/DTC-Inc/static@{tag}/{path}
 
 ```
 brand/          Logos, icons, brand assets
+  dtc-logo-signature-300-white.png   email signature logo (MKTG-STD-SIG-001 line 5): 300 px wide, shown at 150, on white
+  dtc-logo-signature-300.png         the same on transparent (reads on white and light grey only)
+  dtc-logo-signature-150*.png        1x copies for clients that won't scale an image
   logo.svg
   logo-white.svg
   favicon.ico
