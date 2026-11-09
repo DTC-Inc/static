@@ -1,0 +1,41 @@
+/* DTC's identity for the client portal: GENERATED from the DTC design system's source (DTC-Inc/windmill
+   design/org-dtc.json, gen_targets.py). Published to DTC-Inc/static (brand/portal-theme.css on release) and
+   loaded from PUBLIC_PORTAL_THEME_CSS_URL: branding lives in the environment, not the code (KB page 3161).
+   The book's colours, exact (book 3772, 03 Color): Cyan tint and Cyan for tints and text on dark, Navy for the
+   primary, Coral tint and Coral for one moment per screen, always with navy text. Unlayered, so it wins over
+   the portal's own @theme defaults. */
+:root {
+  --color-brand-50: #d0f4f6;
+  --color-brand-100: #d0f4f6;
+  --color-brand-200: #d0f4f6;
+  --color-brand-300: #43c2ca;
+  --color-brand-400: #43c2ca;
+  --color-brand-500: #091f3f;
+  --color-brand-600: #091f3f;
+  --color-brand-700: #091f3f;
+  --color-brand-800: #091f3f;
+  --color-brand-900: #091f3f;
+  --color-brand-950: #091f3f;
+  --color-accent-50: #fde9e2;
+  --color-accent-100: #fde9e2;
+  --color-accent-200: #fde9e2;
+  --color-accent-300: #f07f5e;
+  --color-accent-400: #f07f5e;
+  --color-accent-500: #f07f5e;
+  --color-accent-600: #f07f5e;
+  --color-accent-700: #f07f5e;
+  --color-accent-800: #f07f5e;
+  --color-accent-900: #f07f5e;
+  --color-accent-950: #f07f5e;
+  --color-navy-50: #091f3f;
+  --color-navy-100: #091f3f;
+  --color-navy-200: #091f3f;
+  --color-navy-300: #091f3f;
+  --color-navy-400: #091f3f;
+  --color-navy-500: #091f3f;
+  --color-navy-600: #091f3f;
+  --color-navy-700: #091f3f;
+  --color-navy-800: #091f3f;
+  --color-navy-900: #091f3f;
+  --color-navy-950: #091f3f;
+}

@@ -33,6 +33,7 @@ https://cdn.jsdelivr.net/gh/DTC-Inc/static@{tag}/{path}
 
 ```
 brand/          Logos, icons, brand assets
+  dtc-logo-signature.png       the email signature logo (MKTG-STD-SIG-001): Marketing's 1820x510 PNG, unchanged
   logo.svg
   logo-white.svg
   favicon.ico
